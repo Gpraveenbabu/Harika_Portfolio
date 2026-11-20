@@ -1,7 +1,6 @@
 # Harika Meesala – Academic & Research Portfolio
 
 
----
 
 ## 👩‍🔬 About Me
 
