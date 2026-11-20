@@ -1,6 +1,5 @@
 # Harika Meesala – Academic & Research Portfolio
 
-A single-file portfolio website showcasing **Harika Meesala**'s work as an agricultural economist and digital farming specialist.
 
 ---
 
