@@ -230,7 +230,7 @@ const burger=document.querySelector('.burger'),lk=$('#lk');
 burger.onclick=()=>{const o=lk.classList.toggle('open');burger.setAttribute('aria-expanded',o)};
 lk.onclick=e=>{if(e.target.tagName==='A'){lk.classList.remove('open');burger.setAttribute('aria-expanded',false)}};
 /* PORTRAIT: set PORTRAIT_SRC to a photo URL or data URI to replace the initials */
-const PORTRAIT_SRC='harika.jpeg';
+const PORTRAIT_SRC='./harika.jpeg';
 if(PORTRAIT_SRC){$('#fr').innerHTML='<img alt="Portrait of Harika Meesala" loading="lazy" src="'+PORTRAIT_SRC+'">'}
 const ic=p=>`<svg viewBox="0 0 34 34" aria-hidden="true"><path d="${p}"/></svg>`;
 const R=[['Digital Agriculture','Evaluating and implementing digital farming solutions, and the dynamics of digital transition in agricultural systems.','M17 30V10M17 20c-6 0-10-4-10-10 6 0 10 4 10 10zM17 15c5 0 9-3 9-9-5 0-9 3-9 9z'],
